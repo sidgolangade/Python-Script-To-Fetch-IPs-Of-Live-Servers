@@ -1,0 +1,4 @@
+Enter the autoscaling group name: SG-NewAutoScalingGroup
+IP addresses of all live servers in the given autoscaling group: ['5x.5x.xxx.xxx']
+To get the IP of a specific server, enter the EC2 instance ID: i-0xxxf1xxx24xxx6xx
+Live IP address of the given EC2 instance:  5x.5x.xxx.xxx
