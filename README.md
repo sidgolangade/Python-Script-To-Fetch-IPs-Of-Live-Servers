@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-v3.11.x-FFD43B) ![RHEL](https://img.shields.io/badge/RHEL-v9.x-CC0000) ![AWS-EC2](https://img.shields.io/badge/AWS-EC2-FF9900) ![AWS-EC2](https://img.shields.io/badge/AWS-EC2AutoScaling-FF9900)
+
 # Python-Script-To-Fetch-IPs-Of-Live-Servers
 This repository contains Python scripts to fetch the IP addresses of live servers in different environments, such as AWS Autoscaling Group. These scripts are designed to simplify the process of retrieving the IP addresses of running instances, making it easier to manage and monitor server resources.
 
